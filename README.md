@@ -11,6 +11,8 @@ Colega altera o repositório
 
 commit de um colega do grupo
 
+Vamos escrever no mesmo sitio
 
+e verificar como é o comportamento do merge
 
 
