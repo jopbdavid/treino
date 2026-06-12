@@ -11,8 +11,10 @@ Colega altera o repositório
 
 commit de um colega do grupo
 
-Vamos escrever no mesmo sitio
+A Ana pediu para escrever mais nestas linhas para
 
-e verificar como é o comportamento do merge
+
+testar o merge e ver para um joga as linhas
+
 
 
