@@ -7,7 +7,7 @@ O colega também contribuiu.
 Commit do colega que chegou primeiro.
 Commit do colega que chegou primeiro.
 
-
+Colega altera o repositório
 
 commit de um colega do grupo
 
