@@ -13,6 +13,8 @@ commit de um colega do grupo
 
 A Ana pediu para escrever mais nestas linhas para
 
+Gessica fez uma alteração ao projeto final
+
 
 testar o merge e ver para um joga as linhas
 
