@@ -18,5 +18,5 @@ Gessica fez uma alteração ao projeto final
 
 testar o merge e ver para um joga as linhas
 
-
+Vamos continuar a trabalhar no repo local também
 
