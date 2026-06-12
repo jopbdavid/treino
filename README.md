@@ -18,7 +18,9 @@ Gessica fez uma alteração ao projeto final
 Vamos criar uma divergência no remoto
 
 
-testar o merge e ver para um joga as linhas
+
+12/06 - criação da página sobre nós
+
 
 Vamos continuar a trabalhar no repo local também
 
